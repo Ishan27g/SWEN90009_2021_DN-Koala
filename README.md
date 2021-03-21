@@ -1,2 +1,36 @@
-# SWEN90009_2021_DN-Koala
+# Telstra - Security Data Normalization: SWEN90009_2021_DN-Koala
+
 Repository for SWEN90009 Telstra - Security Data Normalization Project for Team Koala
+
+## Project Overview
+
+Everyday Telstra recieves terabytes of log files from tens of thousands of firewalls, load balancers, servers, and network devices. These logs are collected, parsed, and are then analysed in real time to derive insights around security and network load. As the content and format of the logs are highly varied and often subject to changes and updates, their fields and contents must be normalized before meaningful analysis and comparison of log data can take place. 
+
+Currently, this normalization process requires significant manual labour, with engineers and interns investigating the different log formats and creating parsers to extract, aggregate, and normalize fields for export onto Telstra's Elastic and Splunk anayltics platforms. As no process currently exists at Telstra to automatically normalize logs with unknown or unmapped formats, significant amounts of data is unavailable for analysis at any given time - log data from devices with new log formats, devices that have updated their log file structure, and devices that haven't yet been investigated will all be unusable until manual review has been carried out. 
+
+We are tasked with investigating possible routes towards creating an automated or semi-automated normalisation process that will allow logs from varied systems and devices to be quickly normalized and prepared for export to a range of analytics platforms. 
+
+## Solution Diagram
+<image src="/images/SolutionDiagram.png"> 
+Fig 1. The role of the normalization solution in the client's workflow
+</image>
+
+## Key documents
+
+Copies of documents relating to product details and requirements created during the requirement analysis and investigation process have been saved in this repository. As the project progresses and our investigation grows more detailed, new documents and directories will be added to the repository and linked to here.
+
+#### Product details
+Detailed information on our understanding of the problem space, existing solutions, and areas for investigation can be found here. INSERT LINK
+
+#### Requirement Elicitation
+Requirement elictation plans and documents are stored here. INSERT LINK.
+
+#### Meeting minutes
+Meeting minutes are taken after each client and team meeting and can be found here. INSERT LINK.
+
+## Release notes
+As we were creating and structuring our repository during this sprint, no branches have been merged into master. The following changes were made during this sprint:
++ Created repository, filled out basic structure
++ Added project overview and details
++ Added requirements elicitation documents
++ Added minutes for the team's initial meetings
