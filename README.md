@@ -19,14 +19,15 @@ Fig 1. The role of the normalization solution in the client's workflow
 
 Copies of documents relating to product details and requirements created during the requirement analysis and investigation process have been saved in this repository. As the project progresses and our investigation grows more detailed, new documents and directories will be added to the repository and linked to here.
 
-#### Product details
-Detailed information on our understanding of the problem space, existing solutions, and areas for investigation can be found here. INSERT LINK
+#### Project details
+Information on the project details and problem space, as well as our first looks into existing solutions and areas for further investigation can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/docs/specification/Sprint-1-Specification.pdf).
 
 #### Requirement Elicitation
-Requirement elictation plans and documents are stored here. INSERT LINK.
+The directory containing our requirement elictation plans can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/requirements_elicitation).
 
 #### Meeting minutes
-Meeting minutes are taken after each client and team meeting and can be found here. INSERT LINK.
+Meeting minutes are taken after each client and team meeting and have been grouped by sprint. A list of sprint minutes is provided below:
++ [Sprint 1 minutes](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/docs/meetings/Sprint-1-meeting-minutes.pdf)
 
 ## Release notes
 As we were creating and structuring our repository during this sprint, no branches have been merged into master. The following changes were made during this sprint:
