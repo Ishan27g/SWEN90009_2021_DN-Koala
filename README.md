@@ -32,11 +32,17 @@ Four personas representing key users and stakeholders have been created and can 
 A Do-Be-Feel session was run with the client to flesh out the goals for the system. The resulting Do-Be-Feel table and a derived motivational model can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/DoBeFeel_%26_Motivational_model).
 
 ## Release notes
-The following changes were made during this sprint:
 
-+ Created Do-Be-Feel table and associated motivational model 
-+ Developed personas
+#### This release contains the following additions:
+
++ Added Do-Be-Feel table and associated motivational model 
++ Added personas for key users of the system
 + Updated specification to reflect our latest understanding of the desired solution
 + Updated requirements elicitation documents to reflect changes from sprint 2
+
+#### The following files were deleted:
+
 + Removed meeting minutes (minutes can still be found on confluence)
+
+All changes have been made on the master branch - no side branches have yet been created and merged, as our workflow is structured so that most documentation work takes place in confluence / google-docs, with only a single team member exporting content to GitHub.
 
