@@ -25,14 +25,18 @@ Information on the project details and problem space, as well as our initial loo
 #### Requirement Elicitation
 The directory containing our requirement elictation plans is located [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/requirements_elicitation).
 
-#### Meeting minutes
-Meeting minutes are taken during each client and team meeting and have been grouped by sprint. A list of sprint minutes is provided below:
-+ [Sprint 1 minutes](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/docs/meetings/Sprint-1-meeting-minutes.pdf)
+#### User Personas
+Four personas representing key users and stakeholders have been created and can be accessed [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user_personas).
+
+#### Motivational Model and Do-Be-Feel table
+A Do-Be-Feel session was run with the client to flesh out the goals for the system. The resulting Do-Be-Feel table and a derived motivational model can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/DoBeFeel_%26_Motivational_model).
 
 ## Release notes
-As we were creating and structuring our repository during this sprint, no feature branches have been merged into master. 
-However, the following additions were made during this sprint:
+The following changes were made during this sprint:
 
-+ Created repository, filled out basic structure
-+ Added project overview and useful links to readme
-+ Added documents containing meeting minutes, requirement elicitation plans, and project specifications 
++ Created Do-Be-Feel table and associated motivational model 
++ Developed personas
++ Updated specification to reflect our latest understanding of the desired solution
++ Updated requirements elicitation documents to reflect changes from sprint 2
++ Removed meeting minutes (minutes can still be found on confluence)
+
