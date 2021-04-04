@@ -20,7 +20,7 @@ Fig 1. The role of the normalization solution in the client's workflow
 Copies of documents relating to requirements analysis and product specifications have been saved in this repository. As the project progresses and our solution grows more detailed, new documents will be added to the repository and will become accessible via links provided below.
 
 #### Project details
-Information on the project details and problem space, as well as our initial look into existing solutions and areas for further investigation can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/docs/specification/Sprint-1-Specification.pdf).
+Information on the project details and problem space, as well as our initial look into existing solutions and areas for further investigation can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/specification).
 
 #### Requirement Elicitation
 The directory containing our requirement elictation plans is located [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/requirements_elicitation).
