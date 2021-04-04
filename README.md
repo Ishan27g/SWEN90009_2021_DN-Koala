@@ -40,7 +40,7 @@ A Do-Be-Feel session was run with the client to flesh out the goals for the syst
 + Updated specification to reflect our latest understanding of the desired solution
 + Updated requirements elicitation documents to reflect changes from sprint 2
 
-#### The following files were deleted:
+#### This release contains the following deletions:
 
 + Removed meeting minutes (minutes can still be found on confluence)
 
