@@ -38,7 +38,7 @@ A Do-Be-Feel session was run with the client to flesh out the goals for the syst
 
 ### User Stories
 
-User stories are provided that try to completely cover the capabilities required by the client and our understanding of the problem domain. 2 scenarios have also been documented, along with the user story map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user_stories).
+User stories are provided that try to completely cover the capabilities required by the client and our understanding of the problem domain. 2 scenarios have also been documented, along with the user story map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
 
 ### User Testing
 
