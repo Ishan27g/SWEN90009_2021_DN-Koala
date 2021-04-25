@@ -46,7 +46,7 @@ Multiple scenarios to cover the varying requirements of the clients have been do
 
 ### Low Fidelity Prototype
 
-A low fidelity prototype has been created to demonstrate a general idea of the solution envisaged by the team. Live version of the prototype can be found [here](https://marvelapp.com/prototype/9h3de41). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/low-fidelity/>).
+A low fidelity prototype has been created to demonstrate a general idea of the solution envisaged by the team. Live version of the prototype can be found [here](https://marvelapp.com/prototype/9h3de41). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/low_fidelity/>).
 
 ### Release notes
 
