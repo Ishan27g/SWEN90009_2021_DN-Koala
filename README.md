@@ -40,6 +40,18 @@ A Do-Be-Feel session was run with the client to flesh out the goals for the syst
 
 User stories are provided that try to completely cover the capabilities required by the client and our understanding of the problem domain. 2 scenarios have also been documented, along with the user story map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
 
+### Acceptance Criteria
+
+U----map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
+
+### Acceptance Testing
+
+U----map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
+
+### Traceability Matrix
+
+U----map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
+
 ### User Testing
 
 Multiple scenarios to cover the varying requirements of the clients have been documented, along with our process for conducting the user testing. We have also provided a reflection of the user testing. This can be accessed [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-testing).
@@ -47,6 +59,15 @@ Multiple scenarios to cover the varying requirements of the clients have been do
 ### Low Fidelity Prototype
 
 A low fidelity prototype has been created to demonstrate a general idea of the solution envisaged by the team. Live version of the prototype can be found [here](https://marvelapp.com/prototype/9h3de41). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/low_fidelity/>).
+
+
+### High Fidelity Prototype
+
+ [here](https://marvelapp.com/prototype/9h3de41). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/low_fidelity/>).
+
+### Moodboard
+
+[here](https://marvelapp.com/prototype/9h3de41). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/low_fidelity/>).
 
 ### Release notes
 
