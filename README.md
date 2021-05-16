@@ -42,15 +42,15 @@ User stories are provided that try to completely cover the capabilities required
 
 ### Acceptance Criteria
 
-U----map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
+Acceptance criteria based on user stories can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/docs/acceptance_criteria_tests/accetanceCriteria.pdf).
 
 ### Acceptance Testing
 
-U----map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
+Acceptance testing based on acceptance criteria can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/docs/acceptance_criteria_tests/acceptanceTests.pdf).
 
 ### Traceability Matrix
 
-U----map [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/docs/user-stories).
+The traceability matrix can be found [here](https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/docs/acceptance_criteria_tests/traceabilityMatrix.pdf).
 
 ### User Testing
 
@@ -63,21 +63,28 @@ A low fidelity prototype has been created to demonstrate a general idea of the s
 
 ### High Fidelity Prototype
 
- [here](https://marvelapp.com/prototype/9h3de41). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/low_fidelity/>).
+ Live link to [Figma](https://www.figma.com/file/Xmit6kEwCE30QLxYb5rysC/Telstra-Dat-Normalisation?node-id=0%3A1). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/high_fidelity>).
 
 ### Moodboard
 
-[here](https://marvelapp.com/prototype/9h3de41). The paper prototype sceens can be found [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/tree/main/prototypes/low_fidelity/>).
+The moodboard that defines the look of  high fidelity prototype can be found
+[here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/ui/moodboard.pdf>).
+
+### Data Sample
+
+Data samples used for the prototype can be found
+[here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/data_samples/dataSample.pdf>).
+
 
 ### Release notes
 
 #### This release contains the following additions
 
-+ Added User stories, user journey maps and user story map
-+ Added a low fidelity prototype, with screens and link to live version
-+ Added User testing process and our reflection
-+ Updated specification to reflect our latest understanding of the desired solution
-+ Updated requirements elicitation documents to reflect changes from sprint 2
++ Added Acceptance Criteria and Acceptance Tests
++ Added Traceability Matrix
++ Added Data Sample
++ Added a high fidelity prototype, with screens and link to live version
++ Added Moodboard
 
 #### This release contains the following deletions
 
