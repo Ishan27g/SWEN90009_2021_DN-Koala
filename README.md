@@ -75,19 +75,13 @@ The moodboard that defines the look of  high fidelity prototype can be found
 Data samples used for the prototype can be found
 [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/data_samples/dataSample.pdf>).
 
-
 ### Release notes
 
-#### This release contains the following additions
+This release contains the following additions
 
-+ Added Acceptance Criteria and Acceptance Tests
-+ Added Traceability Matrix
-+ Added Data Sample
-+ Added a high fidelity prototype, with screens and link to live version
-+ Added Moodboard
+- [X] Added final presentation
+- [X] Added the updated data sample
+- [X] Added the updated high fidelity prototype
+- [X] Moved Acceptance Criteria and Acceptance Tests to `tests/`
 
-#### This release contains the following deletions
-
-NA
-
-All changes have been made on the master branch - no side branches have yet been created and merged, as our workflow is structured so that most documentation work takes place in confluence / google-docs, with only a single team member exporting content to GitHub.
+All changes have been made on the master branch - no side branches have yet been created and merged, as our workflow is structured so that most documentation work takes place in confluence.
