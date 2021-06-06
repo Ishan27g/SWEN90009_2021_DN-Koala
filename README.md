@@ -75,13 +75,37 @@ The moodboard that defines the look of  high fidelity prototype can be found
 Data samples used for the prototype can be found
 [here](<https://github.com/Ishan27g/SWEN90009_2021_DN-Koala/blob/main/data_samples/dataSample.pdf>).
 
+## Changelog
+
 ### Release notes
 
 This release contains the following additions
 
 - [X] Added final presentation
-- [X] Added the updated data sample
+- [X] Added updated copy of data samples
 - [X] Added the updated high fidelity prototype
 - [X] Moved Acceptance Criteria and Acceptance Tests to `tests/`
+- [X] Updated readme.md content
+
+### Previous releases
+
+#### Sprint 1 | 21/03/2021
+- [X] Added elicitation documents
+- [X] Added project overview information to readme
+- [X] Created initial GitHub structure
+#### Sprint 2 | 04/04/2021
+- [X] Added Do/Be/Feel model
+- [X] Added goal model
+- [X] Added four user personas
+#### Sprint 3 | 25/04/2021
+- [X] Added user stories for core functionality
+- [X] Added low fidelity paper prototype
+#### Sprint 4 | 16/05/2021
+- [X] Added moodboard
+- [X] Added high fidelity digital prototype
+- [X] Added acceptance criteria
+- [X] Added acceptance tests
+- [X] Added data samples
+- [X] Added tracability matrix
 
 All changes have been made on the master branch - no side branches have yet been created and merged, as our workflow is structured so that most documentation work takes place in confluence.
